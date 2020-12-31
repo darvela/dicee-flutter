@@ -17,6 +17,7 @@ void main() {
   );
 }
 
+//clase para el dado
 class DicePage extends StatefulWidget {
   @override
   _DicePageState createState() => _DicePageState();
